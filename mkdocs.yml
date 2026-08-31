@@ -1,0 +1,21 @@
+site_name: DbGrep
+theme:
+  name: material
+  palette:
+    primary: 'blue'
+    accent: 'light blue'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
+nav:
+  - Introduction: index.md
+  - User Documentation: user-docu.md
+  - Software Documentation: software-docu.md
+
+extra:
+  homepage: https://pattern-search-using-grep-principles-f8f3b3.pages.mi.hdm-stuttgart.de/
+  social:
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.mi.hdm-stuttgart.de/jo041/dbgrep
+      name: GitLab

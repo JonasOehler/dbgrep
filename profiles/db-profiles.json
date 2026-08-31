@@ -1,0 +1,16 @@
+{
+  "mysql": {
+    "driverClass": "com.mysql.cj.jdbc.Driver",
+    "driverFile": "drivers/mysql-connector-j-9.3.0.jar",
+    "url": "jdbc:mysql://localhost:3306/dbgrep-database",
+    "username": "root",
+    "password": "test"
+  },
+  "postgres": {
+    "driverClass": "org.postgresql.Driver",
+    "driverFile": "drivers/postgresql-42.7.5.jar",
+    "url": "jdbc:postgresql://localhost:5432/dbgrep-database",
+    "username": "root",
+    "password": "test"
+  }
+}

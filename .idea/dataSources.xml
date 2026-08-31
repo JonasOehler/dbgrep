@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+    <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+        <data-source source="LOCAL" name="dbgrep-database@localhost" uuid="24dc5f25-020d-4507-8069-ceef1ee980ef">
+            <driver-ref>mysql.8</driver-ref>
+            <synchronize>true</synchronize>
+            <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+            <jdbc-url>jdbc:mysql://localhost:3306/dbgrep-database</jdbc-url>
+            <working-dir>$ProjectFileDir$</working-dir>
+        </data-source>
+        <data-source source="LOCAL" name="dbgrep-database@localhost [2]" uuid="df2efdae-0db9-4ab6-a80f-d6e3bd8d2c5f">
+            <driver-ref>postgresql</driver-ref>
+            <synchronize>true</synchronize>
+            <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+            <jdbc-url>jdbc:postgresql://localhost:5432/dbgrep-database</jdbc-url>
+            <working-dir>$ProjectFileDir$</working-dir>
+        </data-source>
+    </component>
+</project>
