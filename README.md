@@ -14,7 +14,7 @@ DbGrep is a CLI program designed to provide the functionality of the Linux grep 
 ### Clone the Repository
 
 ```
-git clone https://gitlab.mi.hdm-stuttgart.de/jo041/dbgrep.git
+https://github.com/JonasOehler/dbgrep.git
 ```
 ### Package into .jar
 
